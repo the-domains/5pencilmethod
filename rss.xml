@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[5-Pencil Method]]></title>
+        <description><![CDATA[5-Pencil Method]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Mar 2016 20:55:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Drawing Test Step #1]]></title>
+            <description><![CDATA[<h1></h1>]]></description>
+            <link>undefineddrawing-test-step-1/index.html</link>
+            <guid isPermaLink="false">aa74146d-ff3a-4f29-8ad2-61eddbfc96fb</guid>
+            <pubDate>Fri, 11 Mar 2016 20:55:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

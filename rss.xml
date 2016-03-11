@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[5-Pencil Method]]></title>
         <description><![CDATA[5-Pencil Method]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/5pencilmethod/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 20:55:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 21:03:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/5pencilmethod/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[7 secrets that will add depth and dimension to your drawings]]></title>
+            <description><![CDATA[<article><h1>7 secrets that will add depth and dimension to your drawings</h1><h2>A sheet of paper will always be flat… which makes “popping” your drawings off the page with these simple secrets all the more exciting!</h2><p>by Jeremy Rowland</p></article>]]></description>
+            <link>https://thegrid.ai/5pencilmethod/7-secrets-that-will-add-depth-and-dimension-to-your-drawings/index.html</link>
+            <guid isPermaLink="false">58b8d88f-d6e7-4ce5-b6a5-ace94f77c8ab</guid>
+            <pubDate>Fri, 11 Mar 2016 21:02:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Drawing Test Step #1]]></title>
-            <description><![CDATA[<h1></h1>]]></description>
-            <link>undefineddrawing-test-step-1/index.html</link>
+            <description><![CDATA[<article><h1>Drawing Test Step #1</h1><h2></h2></article>]]></description>
+            <link>https://thegrid.ai/5pencilmethod/drawing-test-step-1/index.html</link>
             <guid isPermaLink="false">aa74146d-ff3a-4f29-8ad2-61eddbfc96fb</guid>
             <pubDate>Fri, 11 Mar 2016 20:55:02 GMT</pubDate>
         </item>

@@ -1,7 +1,7 @@
 name: 5-Pencil Method
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.66168
+layout_spectrum: 0
+typography_spectrum: 0.36806
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#bcb1a5'
-    - '#968775'
-    - '#1a1816'
-    - '#4a3a27'
+    - '#792d47'
+    - '#e3e4e1'
+    - '#1a1919'
+    - '#a3a5a2'
+    - '#6b6d6a'
   brandStrength: 0.5
-  lightness: 0.75
+  lightness: 0.6875
   saturation: 0.5
-  rhythmicContrast: 1
+  rhythmicContrast: 0.5
 purpose: []
